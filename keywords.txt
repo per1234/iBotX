@@ -1,0 +1,43 @@
+#######################################
+# Syntax Coloring Map For iBotX library
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+iBotX	KEYWORD1
+SW1	KEYWORD1
+SW2	KEYWORD1
+SW3	KEYWORD1
+SW_Select	KEYWORD1
+done	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+sw1	KEYWORD2
+sw2	KEYWORD2
+sw3	KEYWORD2
+sensor1	KEYWORD2
+sensor2	KEYWORD2
+sensor3	KEYWORD2
+sensor4	KEYWORD2
+sensor5	KEYWORD2
+sonar_cm	KEYWORD2
+sonar_mm	KEYWORD2
+motor	KEYWORD2
+servo	KEYWORD2
+laser_on	KEYWORD2
+laser_off	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+iBotX.h	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
